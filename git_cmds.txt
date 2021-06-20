@@ -1,4 +1,0 @@
-Команды для сдачи дз:
-1. git branch - создать ветку
-3. git checkout {название ветки, в которую перейти}
-3. git commit -m 'New Changes'
